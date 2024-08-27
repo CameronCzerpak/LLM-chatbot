@@ -1,4 +1,4 @@
-# LLM-chatbot
+# LLM ChatBot Project
 Self directed learning projects on interfacing with ChatGPT through OpenAI API and local large language models
 
 ## Local LLM
